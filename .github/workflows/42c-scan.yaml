@@ -1,4 +1,4 @@
-name: "42Crunch API Security Scan"
+name: "42Crunch API Security Scan" #
 
 on:
   workflow_dispatch:
